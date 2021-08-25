@@ -1,0 +1,22 @@
+th{
+    border:2px solid cyan ;
+}
+table{
+    border:2px solid cyan ;
+}
+tr{
+    text-align: center;
+}
+.tr1{
+    background-color: darkgreen;
+    font-weight: bold;
+    color: darkseagreen;
+}
+.tr2{
+    background-color: darkseagreen;
+    color: black;
+}
+.tr3{
+    background-color: cadetblue;
+    color:black;
+}
