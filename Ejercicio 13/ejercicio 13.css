@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+th{
+    border:2px solid black ;
+}
+table{
+    border:2px solid black ;
+    width: 100%;
+    height: 100%;
+}
+tr{
+    text-align: center;
+}
+.verde{
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+}
+.azul{
+    background-color: cyan;
+    color: black;
+    text-align: left;
+}
+.letraRoja{
+    color: red;
+}
+.rosa{
+    background-color: pink;
+    color: black;
+    text-align: right;
+}
