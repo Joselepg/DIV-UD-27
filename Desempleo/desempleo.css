@@ -1,0 +1,16 @@
+
+th{
+    border:2px solid black ;
+    text-align: left;
+    font-weight: normal;
+}
+table{
+    border:2px solid black ;
+}
+#negrita{
+    font-weight: bold;
+}
+#centrado{
+    text-align: center;
+    font-weight: bold;
+}
