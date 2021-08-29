@@ -1,0 +1,65 @@
+#divAzul{
+    position: relative;
+    margin-bottom: 20px;
+    border: 1px solid blue;
+    background-color: cyan;
+    width: 250px;
+    height: 150px;
+}
+p{
+    align-items: flex-start;
+}
+#sueloAzul{
+    position: absolute;
+    background-image: url("f01.png");
+    left:0px;
+    top:136px;
+    width: 250px;
+    height: 20px;
+    background-repeat: repeat-x;
+}
+#marioAzul{
+    position: absolute;
+    left:0px;
+    bottom: -40px;
+    width: 250px;
+    height: 150px;
+}
+#nubesAzul{
+    position: absolute;
+    width: 250px;
+    height: 150px;
+}
+#divRojo{
+    position: relative;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 3px solid red;
+    background-color: cyan;
+    width: 500px;
+    height: 300px;
+}
+#sueloRojo{
+    position: absolute;
+    background-image: url("f01.png");
+    left:0px;
+    top:287px;
+    width: 500px;
+    height: 20px;
+    background-repeat: repeat-x;
+}
+#marioRojo{
+    position: absolute;
+    left:0px;
+    bottom: -40px;
+    width: 250px;
+    height: 150px;
+
+}
+#nubesRojo{
+    position: absolute;
+    background-image: url("f03.png");
+    width: 500px;
+    height: 150px;
+    background-repeat: repeat-x;
+}
